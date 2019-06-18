@@ -1,4 +1,4 @@
-#1 Pasos desde cero
+# 1 Pasos desde cero
 ### Vean el título 2 para instalar este proyecto en sus máquinas.
 
 1. `php artisan make:Auth`
